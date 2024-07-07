@@ -1,0 +1,38 @@
+.dmg-search-box {
+    margin-bottom: -5px;
+}
+.dmg-search-box .components-base-control {
+    margin-bottom: 5px !important;
+}
+
+.dmg-info-text {
+    color: #AAA;
+    margin-bottom: 25px;
+}
+.dmg-info-text span {
+    color: #333;
+}
+
+.dmg-read-more {
+    font-weight: bold;
+    font-style: normal;
+    color: #007cba;
+}
+.dmg-read-more a {
+    text-decoration: underline;
+    font-weight: normal;
+    font-style: italic;
+    color: #111;
+}
+.dmg-read-more a:hover {
+    text-decoration: none;
+    color: #007cba;
+}
+
+.post-title-button {
+    white-space: normal !important;
+    word-wrap: break-word;
+    width: 100%;
+    text-align: left;
+    height: auto;
+}
