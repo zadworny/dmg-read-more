@@ -47,4 +47,3 @@ Initial release with the Gutenberg block and WP-CLI command.
 
 ## Author
 Sam Zadworny
-# dmg-read-more
