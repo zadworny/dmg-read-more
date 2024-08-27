@@ -1,7 +1,7 @@
 # DMG Read More Plugin
 
 ## Description
-This WordPress plugin adds a custom Gutenberg block and a WP-CLI command. The block allows editors to search for and insert a post link into the content. The WP-CLI command searches for posts containing the custom block within a specified date range.
+This WordPress plugin adds a custom Gutenberg block and a WP-CLI command. The block allows editors to search for and insert a post link into the content. The WP-CLI command searches for posts containing the custom block within a specified date range. The plugin has been tested with 2.5 million posts in one WordPress blog.
 
 ## Installation
 1. Upload the `dmg-read-more` folder to the `/wp-content/plugins/` directory.
@@ -35,7 +35,6 @@ This WordPress plugin adds a custom Gutenberg block and a WP-CLI command. The bl
 ## Notes
 Ensure you have WP-CLI installed and configured to use the CLI command.
 The plugin is optimized for large databases and uses efficient querying methods.
-The plugin has been tested with 2.5 million posts in one WordPress blog.
 
 ## Notes for CLI Command
 The CLI command can be used in a blog with an infinite number of posts as it works in batches.
